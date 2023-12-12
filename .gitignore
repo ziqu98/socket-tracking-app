@@ -1,0 +1,13 @@
+node_modules
+
+cloud-sql-proxy
+
+cloud-sql-proxy.exe
+
+env.sample
+
+.env
+
+key.json
+
+Readme.md
